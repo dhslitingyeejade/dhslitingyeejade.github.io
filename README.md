@@ -11,7 +11,7 @@ My Personal Portfolio Website
         and came to Singapore when I was 8.</p>
     <br>
   <p>I aslo have a brother who is two years younger than me.</p>
-    <a><img src="IMG_4672.JPG"/></a>
+    <a><img src="IMG_4346.JPG"/></a>
     <br>
   <h2>Interests:</h2>
   <br>
@@ -21,3 +21,8 @@ My Personal Portfolio Website
       <a href="http://www.odonatabooks.com/categories/漫画-Comic/144"</a>
       <li>Reading Chinese novels</li>
     </ul>
+    <br>
+   <h2>Accomplishments</h2>
+     <p></p>
+  </body>
+  </html>
