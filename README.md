@@ -6,7 +6,7 @@ My Personal Portfolio Website
   <h1>Welcome to <strong>Jade's Portfolio!</strong></h1>
   <h2>About:</h1>
   <br>
-    <p>I am Jade Li, a Year 1 student from <a href="http://dunmanhigh.moe.edu.sg"> Dunman High School </a> 
+    <p>I am Jade Li, a Year 1 student from <a href="http://dunmanhigh.moe.edu.sg"> Dunman High School. </a> 
         I was born in Hong Kong and when I was 5, I moved to Shanghai to study
         and came to Singapore when I was 8.</p>
     <br>
