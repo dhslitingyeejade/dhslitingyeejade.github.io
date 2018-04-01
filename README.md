@@ -22,7 +22,7 @@ My Personal Portfolio Website
       <li>Reading Chinese novels</li>
     </ul>
     <br>
-   <h2>Accomplishments</h2>
+   <h2>Accomplishments:</h2>
      <p></p>
   </body>
   </html>
