@@ -11,7 +11,7 @@ My Personal Portfolio Website
         and came to Singapore when I was 8.</p>
     <br>
   <p>I aslo have a brother who is two years younger than me.</p>
-    <a><img src="IMG_4346.JPG" height="20" weidth="10"/></a>
+    <a><img src="IMG_4346.JPG" height="100" weidth="50"/></a>
     <br>
   <h2>Interests:</h2>
   <br>
