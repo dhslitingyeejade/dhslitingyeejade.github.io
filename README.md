@@ -17,8 +17,8 @@ My Personal Portfolio Website
   <br>
     <Ul>
       <li>Drawing and painting</li>
-      <li>Playing Bsketball</li>
-      <a href="http://www.odonatabooks.com/categories/漫画-Comic/144" <li>Reading Chinese novels</li></a>
+      <li>Swimming</li>
+      <li><a href="http://www.odonatabooks.com/categories/漫画-Comic/144" />Reading Chinese novels</li>>
     </ul>
     <br>
    <h2>Accomplishments:</h2>
