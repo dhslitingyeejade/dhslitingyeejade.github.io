@@ -23,6 +23,9 @@ My Personal Portfolio Website
     </ul>
     <br>
    <h2>Accomplishments:</h2>
-     <p></p>
+     <ul>
+       <li>I sold my Chinese Painting in primary 5 for $200 which was donated to the charity by the school.
+       <li>I have attained Grade 5 piano.
+     </ul>
   </body>
   </html>
