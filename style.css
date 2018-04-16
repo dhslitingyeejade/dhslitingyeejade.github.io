@@ -2,4 +2,10 @@ h1 {
       font-family: Georgia;
       color: #4BF1CB;
       }
-   
+h2 {
+      font-family: Arial;
+      color:#C674EA;
+     }
+body {
+    background-image: url("http://www.psdgraphics.com/backgrounds/blue-sky-background/.jpg");
+}
